@@ -1,0 +1,12 @@
+<svg width="160" height="30" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo Text using Work Sans -->
+  <text x="3" y="23" font-family="'Work Sans', sans-serif" font-size="20" font-weight="bold">
+    <tspan fill="#0077b6">Book</tspan><tspan fill="#0096c7">My</tspan><tspan fill="#023e8a">Doctor</tspan>
+  </text>
+
+  <!-- Medical Plus Icon (Adjusted Position) -->
+  <g transform="translate(150, 8)">
+    <rect x="-6" y="-2" width="12" height="4" fill="#00b4d8" />
+    <rect x="-2" y="-6" width="4" height="12" fill="#00b4d8" />
+  </g>
+</svg>
